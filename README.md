@@ -19,4 +19,19 @@ que você possa se basear.
 é necessário utilizar a propriedade -webkit-background-clip: text;*
 
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
+
 utilizando o comando `git checkout final` no seu terminal.
+
+
+## Agradecimentos e Aprendizados
+
+Este desafio foi uma ótima oportunidade para consolidar tudo o que aprendi até aqui sobre HTML e CSS. Na prática, experimentei:
+
+- Como estruturar e linkar corretamente arquivos HTML e CSS  
+- Trabalhar com **unidades relativas** (`rem`, `vh`, `vw`) para um layout flexível  
+- Construir gradientes em texto e fundo usando `background-clip` e `linear-gradient()`  
+- Aplicar bordas específicas com shorthand e propriedades lógicas (`border-width`, `border-block`)  
+- Explorar efeitos de paralaxe simples com `background-attachment: fixed`  
+- Organizar componentes com Flexbox e garantir espaçamentos consistentes  
+
+Agradeço à DIO, à Santander e aos mentores da Trilha de CSS pelo conteúdo claro e desafiador, que me permitiu evoluir passo a passo e entregar uma landing page responsiva, elegante e funcional. 🚀  
